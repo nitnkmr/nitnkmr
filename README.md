@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitnkmr
-- 👀 I’m interested in software developer role internship...
+- 👀 I’m interested in web development in React.js And JavaScript.
 - 🌱 learning React..
 - 💞️ I’m looking for job...
 - 📫 How to reach me nitin84498@gmail.com
