@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development in React.js And JavaScript.
 - 🌱 Skills - Data structure and algorithm Java, JavaScript, React.js, HTML, CSS, Redux.
 - 💞️ I’m looking for job as React Developer...
-- 📫 How to reach me +918171973123  nitin79831@gmail.com
+- 📫 How to reach me
+-  Mobile : +918171973123
+-  Email : nitin79831@gmail.com
 
 <!---
 nitnkmr/nitnkmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
