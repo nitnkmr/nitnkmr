@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nitin Kumar<br>👀 I’m interested in web development in React.js And JavaScript.<br>🌱 Skills - Data structure and algorithm Java, JavaScript, React.js, HTML, CSS, Redux.<br>💞️ I’m looking for job as React Developer...<br>📫 How to reach me<br>📲 Mobile : +918171973123<br>📧 Email : nitin79831@gmail.com
+👋 Hi, I’m Nitin Kumar<br>👀 I’m interested in web development in React.js And JavaScript.<br>🌱 Skills - Data structure and algorithm Java, JavaScript, React.js, HTML, CSS,  Taiwind CSS , Redux.<br>💞️ I’m looking for job as React Developer...<br>📫 How to reach me<br>📲 Mobile : +918171973123<br>📧 Email : nitin79831@gmail.com
 
 
 ## 🌐 Socials:
